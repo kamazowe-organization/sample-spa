@@ -9,7 +9,7 @@ console.log(testMessage);
 let los = Math.floor((Math.random() * 100) + 1);
 let liczba;
 let ile=0;
-console.log;
+
 
 do {
     liczba = parseInt(prompt("Podaj liczbe !"));
